@@ -1,0 +1,8 @@
+C:\Users\laptop\source\repos\discrete1\discrete1\bin\Debug\discrete1.exe.config
+C:\Users\laptop\source\repos\discrete1\discrete1\bin\Debug\discrete1.exe
+C:\Users\laptop\source\repos\discrete1\discrete1\bin\Debug\discrete1.pdb
+C:\Users\laptop\source\repos\discrete1\discrete1\obj\Debug\discrete1.csproj.AssemblyReference.cache
+C:\Users\laptop\source\repos\discrete1\discrete1\obj\Debug\discrete1.csproj.SuggestedBindingRedirects.cache
+C:\Users\laptop\source\repos\discrete1\discrete1\obj\Debug\discrete1.csproj.CoreCompileInputs.cache
+C:\Users\laptop\source\repos\discrete1\discrete1\obj\Debug\discrete1.exe
+C:\Users\laptop\source\repos\discrete1\discrete1\obj\Debug\discrete1.pdb
